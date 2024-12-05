@@ -13,7 +13,6 @@ https://github.com/show-cases/show-case-python-fastapi
 ## show-case-golang-rest
 https://github.com/show-cases/show-case-golang-rest-gin
 
-
 ## show-case-golang-grpc
 
 ## show-case-qt-3d
@@ -21,6 +20,3 @@ https://github.com/show-cases/show-case-qt-3d
 
 ## show-case-qt-2d
 https://github.com/show-cases/show-case-qt-2d
-
-## show-case-opengl
-
