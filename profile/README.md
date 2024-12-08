@@ -20,3 +20,11 @@ https://github.com/show-cases/show-case-qt-3d
 
 ## show-case-qt-2d
 https://github.com/show-cases/show-case-qt-2d
+
+# HB Project
+
+## user service
+https://github.com/show-cases/hb-user-service
+
+## comment service
+https://github.com/show-cases/hb-comment-service
